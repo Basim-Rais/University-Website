@@ -15,8 +15,10 @@ Contact: Contact information for various departments.
 # Technology:
 
 HTML: Used to structure the website's content.
+
 CSS: Used to style the website's appearance.
-JavaScript: Used to add interactive elements (optional)
+
+JavaScript: Used to add interactive elements 
 
 # For live demo
 [CLick me](https://university-website-by-basim.netlify.app/)
